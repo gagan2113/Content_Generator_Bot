@@ -202,4 +202,4 @@ if submitted:
         st.success("✅ Script generated! Copy and use it for your next post.")
 
 st.markdown("---")
-st.caption("Powered by Groq API & LangGraph. Created with ❤️ using Streamlit.")
+st.caption("Made by Gagan Verma")
