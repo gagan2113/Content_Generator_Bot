@@ -6,7 +6,7 @@ from dataclasses import dataclass
 import os
 from dotenv import load_dotenv
 
-load_dotenv
+load_dotenv()
 
 # --- Groq API Configuration ---
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
